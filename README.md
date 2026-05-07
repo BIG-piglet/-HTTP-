@@ -27,18 +27,18 @@
 
 初始化连接套接字：
 
-  socket, connect等操作；
+  	socket, connect等操作；
 
 向服务器传输指令：
 
-  write；
+  	write；
 
 接收服务器的返回数据：
 
-  read;
+  	read;
 
 关闭连接：
 
-  close；
+  	close；
 
 }
